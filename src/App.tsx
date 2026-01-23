@@ -183,7 +183,7 @@ function App() {
                             </button>
                         ))}
                     </div>
-                    <p className="text-[10px] font-black text-slate-600 uppercase tracking-[0.4em]">© 2024 MK_AI_CHAIN_BLOG • 21/30 DISPATCHED</p>
+                    <p className="text-[10px] font-black text-slate-600 uppercase tracking-[0.4em]">© 2026 AI_CHAIN // DISPATCH • 21/30 DISPATCHED</p>
                 </div>
             </footer>
         </div>

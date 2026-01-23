@@ -20,3 +20,5 @@ venv/
 .replit
 replit.nix
 uv.lock
+.vercel
+.env*.local
